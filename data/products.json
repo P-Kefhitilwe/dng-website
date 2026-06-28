@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "dregen",
+    "name": "D'Regen",
+    "tagline": "Highest ORAC Antioxidant Value in the Market",
+    "category": "Supplements",
+    "oracValue": "8,089",
+    "image": "/images/products/dregen.jpg",
+    "benefits": [
+      "Combat free radicals & reduce inflammation",
+      "Activate cells & strengthen immunity",
+      "Support healthy gene & boost liver function",
+      "Detoxify, promote weight loss & suppress 3 highs",
+      "Defend against UV damage & improve skin radiance"
+    ],
+    "ingredients": "Mangosteen, Broccoli Sprouts, Apple Stem Cells, Grape Stem Cells, Yeast Beta-Glucan, Acerola Cherry, Amla, Pomegranate, Blueberry, Raspberry, Acai, Blackcurrant, Elderberry, Green Tea, Goji Berries.",
+    "scientificHighlight": "Verified by Gifu International Biotechnology Research Japan: Mangosteen extract kills a large number of cancer cells within 2 minutes.",
+    "usage": "Mix 1 sachet with 100ml of water. Take daily."
+  },
+  {
+    "slug": "djeune",
+    "name": "D'Jeune",
+    "tagline": "Soul Enriching Nourishment for Healthy Skin and Joints",
+    "category": "Supplements",
+    "oracValue": null,
+    "image": "/images/products/djeune.jpg",
+    "benefits": [
+      "Improves skin elasticity, reduces wrinkles & fine lines",
+      "Supports bone & joint health",
+      "Regulates blood sugar & aids weight management",
+      "Whitening & collagen synthesis",
+      "Reduces AGEs (Advanced Glycation End-products)"
+    ],
+    "ingredients": "Hokkaido Cherry Blossom, French Cantaloupe (SOD), Deep-Sea Collagen Peptides, Prebiotics, Acerola Cherry.",
+    "scientificHighlight": "Rich in SOD (Superoxide Dismutase) – a powerful antioxidant that eliminates free radicals.",
+    "usage": "Mix 1 sachet with 50ml of water. Take 1–2 sachets daily before meals."
+  },
+  {
+    "slug": "ibright",
+    "name": "I-Bright Mix Fruit Jelly",
+    "tagline": "The Ultimate Shield to the Window of your Soul",
+    "category": "Supplements",
+    "oracValue": null,
+    "image": "/images/products/ibright.jpg",
+    "benefits": [
+      "Promotes eye vascular health",
+      "Enhances visual acuity & improves vision",
+      "Soothes dry and fatigued eyes",
+      "Prevents night blindness & cataracts",
+      "Reduces risk of AMD (Age-related Macular Degeneration)"
+    ],
+    "ingredients": "Blackcurrant, Goji Berry, Bilberry, Lutein, Zeaxanthin, Astaxanthin, Vitamins A, B, C, E, Zinc, Copper, Selenium.",
+    "scientificHighlight": "Astaxanthin has 6,000x the antioxidant capacity of Vitamin C.",
+    "usage": "Consume 1–2 jellies daily, preferably after meals."
+  },
+  {
+    "slug": "cordyceps",
+    "name": "Cordyceps Plus Ganoderma",
+    "tagline": "Immunity on the next level",
+    "category": "Supplements",
+    "oracValue": null,
+    "image": "/images/products/cordyceps.jpg",
+    "benefits": [
+      "Regulates immune system & reduces risk of infections",
+      "Improves respiratory health & clears phlegm",
+      "Protects kidneys & improves renal function",
+      "Increases oxygen in the body & fights fatigue",
+      "Relaxes airway smooth muscle for better breathing"
+    ],
+    "ingredients": "Cordyceps Militaris Extract, Ganoderma Lucidum Extract.",
+    "scientificHighlight": "Used for over 2,000 years in Asian countries as the 'Mushroom of Immortality'.",
+    "usage": "Take 2 capsules daily after meals (or 4 for best results)."
+  },
+  {
+    "slug": "spirulina",
+    "name": "DnG Spirulina",
+    "tagline": "The algae plant with the richest & most comprehensive nutrition",
+    "category": "Supplements",
+    "oracValue": null,
+    "image": "/images/products/spirulina.jpg",
+    "benefits": [
+      "Removes heavy metals from the body",
+      "Lowers cholesterol & balances blood sugar",
+      "Improves muscle strength & endurance",
+      "Boosts immunity & combats malnutrition",
+      "Enhances nutrient digestion & absorption"
+    ],
+    "ingredients": "100% California-grown natural Spirulina. Non-GMO, vegan, gluten-free.",
+    "scientificHighlight": "1 serving = antioxidant content of 3–4 servings of fruits & vegetables.",
+    "usage": "Adults: Chew 5–15 tablets daily before meals. Children (6-12): Half dose."
+  },
+  {
+    "slug": "ganoin",
+    "name": "Gano Inn",
+    "tagline": "Balance, Immunity, Rejuvenate",
+    "category": "Coffee",
+    "oracValue": null,
+    "image": "/images/products/ganoin.jpg",
+    "benefits": [
+      "Anti-aging & antioxidant",
+      "Strengthen immune system",
+      "Reduce fatigue & boost energy",
+      "Enhance memory & reduce stress",
+      "Support blood circulation & reduce inflammation"
+    ],
+    "ingredients": "Premium Arabica coffee, Ganoderma lucidum extract.",
+    "scientificHighlight": "Known as the 'Mushroom of Immortality' in Eastern tradition. Backed by modern science for remarkable health benefits.",
+    "usage": "Dissolve 1 sachet in 120ml hot water. Stir well and enjoy."
+  },
+  {
+    "slug": "grandcafe",
+    "name": "Grand Café",
+    "tagline": "Natural Power. Total Vitality.",
+    "category": "Coffee",
+    "oracValue": null,
+    "image": "/images/products/grandcafe.jpg",
+    "benefits": [
+      "Boost energy & endurance",
+      "Support male fertility & sexual function",
+      "Strengthen immunity",
+      "Enhance learning ability & memory",
+      "Reduce menstrual discomfort"
+    ],
+    "ingredients": "Premium Arabica coffee, Tongkat Ali, Ginseng, Maca extract.",
+    "scientificHighlight": "A powerful blend of three ancient herbs: Tongkat Ali (Malaysia Ginseng), Ginseng, and Maca – revered for generations.",
+    "usage": "Dissolve 1 sachet in 120ml hot water. Stir well and enjoy."
+  },
+  {
+    "slug": "drevive",
+    "name": "DRevive Beauty Mattress",
+    "tagline": "Good Health Begins with Quality Deep Sleep",
+    "category": "Devices",
+    "oracValue": null,
+    "image": "/images/products/drevive.jpg",
+    "benefits": [
+      "Promotes deep, restful sleep",
+      "Boosts immunity & enhances protection",
+      "Regulates hormones & blood pH balance",
+      "Slows aging & promotes cellular detoxification",
+      "Strengthens heart function & lowers risk of heart failure"
+    ],
+    "ingredients": "Innovative bedsheet integrating Negative Electric Potential, 7.8 Hz frequency, Terahertz waves, Negative Ions, and Far-Infrared rays.",
+    "scientificHighlight": "A large-scale US study found that sleeping less than 7 hours or having poor sleep quality significantly increases disease risk.",
+    "usage": "Use as a bedsheet for optimal sleep quality. Not advised for individuals with metal implants, pacemakers, or pregnant women."
+  },
+  {
+    "slug": "dcwave",
+    "name": "DC Wave",
+    "tagline": "Clear The Meridians, Feel the Blood, Renew The Body",
+    "category": "Devices",
+    "oracValue": null,
+    "image": "/images/products/dcwave.jpg",
+    "benefits": [
+      "Relieves arthritis, rheumatism & gout",
+      "Repairs damaged cells",
+      "Relieves joint & back pain",
+      "Promotes blood circulation",
+      "Detoxifies & beautifies"
+    ],
+    "ingredients": "Far-Infrared, Ultra-Long Wave, and Magnetic Acupuncture Technology.",
+    "scientificHighlight": "Magnetic Acupuncture penetrates deep into cells and bones, enhancing treatment effects through magnetic fields.",
+    "usage": "Ergonomically shaped to fit body contours. Use on targeted areas for pain relief and muscle recovery."
+  },
+  {
+    "slug": "pentacore",
+    "name": "Penta-Core Water Activator",
+    "tagline": "The Awakening Power of Self-Healing",
+    "category": "Devices",
+    "oracValue": null,
+    "image": "/images/products/pentacore.jpg",
+    "benefits": [
+      "Supports heart & blood health",
+      "Boosts nutrient absorption",
+      "Promotes cellular detoxification",
+      "Enhances skin & beauty",
+      "Slows aging & strengthens immunity"
+    ],
+    "ingredients": "Patented technology with terahertz resonance. Transforms clustered water into a linear structure for better cellular absorption.",
+    "scientificHighlight": "6x water absorption rate. The human body is ~70% water – but not all water is absorbed. Penta-Core optimizes water structure for cellular hydration.",
+    "usage": "Use with drinking water. Also great for mixing formula milk, cooking rice, brewing tea, washing face."
+  },
+  {
+    "slug": "suso",
+    "name": "DnG SUSO",
+    "tagline": "Life Up to 1,600 ppb Hydrogen",
+    "category": "Devices",
+    "oracValue": null,
+    "image": "/images/products/suso.jpg",
+    "benefits": [
+      "Neutralizes free radicals",
+      "Slows aging",
+      "Reduces inflammation",
+      "Relieves fatigue",
+      "Enhances stamina"
+    ],
+    "ingredients": "Hydrogen-rich water with up to 1,600 ppb hydrogen concentration.",
+    "scientificHighlight": "Hydrogen can neutralize millions of free radicals. It's the smallest and most potent antioxidant molecule.",
+    "usage": "Drink daily for powerful antioxidant protection with zero side effects."
+  },
+  {
+    "slug": "dynachlorophyll",
+    "name": "Dyna Chlorophyll",
+    "tagline": "Power your day with chlorophyll, Begin your green energy journey!",
+    "category": "Supplements",
+    "oracValue": null,
+    "image": "/images/products/dynachlorophyll.jpg",
+    "benefits": [
+      "Eliminates bad breath and body odor",
+      "Improves constipation",
+      "Reduces toxin buildup",
+      "Increases oxygen levels",
+      "Boosts immune function"
+    ],
+    "ingredients": "Alfalfa extract – contains 4 times more chlorophyll than ordinary vegetables.",
+    "scientificHighlight": "1 tablespoon of Dyna Chlorophyll concentrate equals the nutritional value of 1 kg of vegetables.",
+    "usage": "Mix 1 tablespoon (15ml) with a glass of water. Take twice daily."
+  },
+  {
+    "slug": "ginplus",
+    "name": "GinPlus",
+    "tagline": "Let It Power Up Your Life, To Live in Young & Energetic!",
+    "category": "Wearables",
+    "oracValue": null,
+    "image": "/images/products/ginplus.jpg",
+    "benefits": [
+      "Reduces blood cholesterol, pressure & sugar",
+      "Prevents cardiovascular diseases",
+      "Strengthens internal organs",
+      "Balances body functions & sexual hormones",
+      "Enhances immunity & reduces stress"
+    ],
+    "ingredients": "Ginkgo Biloba, Tongkat Ali (Malaysia Ginseng), Panax Ginseng.",
+    "scientificHighlight": "Ginkgo leaf has the highest practice in Western healthcare. Tongkat Ali contains 108 active ingredients. Panax Ginseng contains 28 types of ginsenosides.",
+    "usage": "Take 2 capsules two times daily after meals."
+  },
+  {
+    "slug": "smartion",
+    "name": "Smart-ION Series",
+    "tagline": "Your Trendy, Ultralight, Eye Protection & Wellness Wear",
+    "category": "Wearables",
+    "oracValue": null,
+    "image": "/images/products/smartion.jpg",
+    "benefits": [
+      "Filters blue light & relieves eye fatigue",
+      "Improves eye vision",
+      "Releases high-density negative ions (1,000+ ions/cc)",
+      "Far-infrared penetration up to 5cm into skin",
+      "Improves blood circulation & reduces muscle fatigue"
+    ],
+    "ingredients": "Tourmaline-infused through Japan Nanotechnology, Nano Silver Coating, TR90 shape-memory material.",
+    "scientificHighlight": "Tourmaline releases far-infrared and high-density negative ions. Each piece permanently releases 1,000+ ions/cc.",
+    "usage": "Available as eyewear, leggings, handsleeves, socks, and headscarf. Wear daily for continuous wellness benefits."
+  }
+]
